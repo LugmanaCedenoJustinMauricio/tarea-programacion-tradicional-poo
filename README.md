@@ -3,7 +3,7 @@
 ## Datos del Estudiante
 * **Nombre Completo:** Justin Mauricio Lugmaña Cedeño
 * **Institución:** Universidad Estatal Amazónica (UEA)
-* **Carrera:** Tecnologías de la Información / Ingeniería de Software
+* **Carrera:** Tecnologías de la Información
 
 ---
 
